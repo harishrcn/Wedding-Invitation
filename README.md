@@ -7,7 +7,7 @@
 
 <details>
   <summary><strong>View Invitation</strong></summary>
-  <a href="https://arcsoftech.github.io/Wedding-Invitation//"><img src="./assets/img/InviteMain.png" /></a>
+  <a href="https://arcsoftech.github.io/Wedding-Invitation/"><img src="./assets/img/2.png" /></a>
 </details>
 
 With the divine grace of the almighty,
