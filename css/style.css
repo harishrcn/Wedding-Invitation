@@ -732,6 +732,13 @@ a {
 	.wrapper section .item {
 		max-width: 100%;
 	  }
+	  .wrapper section {
+		width: 100%;
+		position: relative;
+		display: grid;
+		grid-template-columns: repeat(1, auto);
+		margin: 20px 0;
+	  }
   }  
 
 
