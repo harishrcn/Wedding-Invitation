@@ -1,5 +1,5 @@
 
-<h1 align="center"><a href="https://arcsoftech.github.io/Wedding-Invitation//assets/SI.pdf">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: 29th Nov, 2021 <br> <a href="https://arcsoftech.github.io/Wedding-Invitation/">Website</a></h1>
+<h1 align="center"><a href="https://arcsoftech.github.io/Wedding-Invitation//assets/WeddingInvite.pdf">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: 29th Nov, 2021 <br> <a href="https://arcsoftech.github.io/Wedding-Invitation/">Website</a></h1>
 
 
 
@@ -10,9 +10,10 @@
   <a href="https://arcsoftech.github.io/Wedding-Invitation//"><img src="./assets/img/InviteMain.png" /></a>
 </details>
 
-With the divine grace of the almighty, inviting you and your family to Saharsh's wedding to be held on **28th and 29th November at [Bhansali Bhavan](https://goo.gl/maps/dYXaRmk8PyXyr2au6),  Jodhpur, Rajasthan.
+With the divine grace of the almighty,
+         connected through screen watch our lives interwine and our love bridge the gap of thousand miles right before your eyes to be held on **28th and 29th November at [Bhansali Bhavan](https://goo.gl/maps/dYXaRmk8PyXyr2au6),  Jodhpur, Rajasthan.
 
-- [Download](https://arcsoftech.github.io/Wedding-Invitation//assets/SI.pdf) the Invitation card
+- [Download](https://arcsoftech.github.io/Wedding-Invitation//assets/WeddingInvite.pdf) the Invitation card
 
 - Find [venue](https://goo.gl/maps/dYXaRmk8PyXyr2au6) on Google map
 
