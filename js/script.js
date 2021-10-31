@@ -4,7 +4,6 @@
 (function ($) {
     "use strict";
       $('.sakura-falling').sakura();
-      document.getElementById("my_audio").play();
 })(jQuery);
 
 /**
@@ -21,7 +20,7 @@
  * Listen here: https://youtu.be/X0MDALpV29s
  *
  */
-$(document).ready(function(){
+$(document).on('click',function(){
     document.getElementById("my_audio").play();
     console.log('Shaadi me zaroor aana');
 });
