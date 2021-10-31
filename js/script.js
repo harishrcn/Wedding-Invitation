@@ -20,13 +20,13 @@
  * Listen here: https://youtu.be/X0MDALpV29s
  *
  */
-$(document).mousemove(function(){
+$(document).ready(function(){
     document.getElementById("my_audio").play();
     console.log('Shaadi me zaroor aana');
 });
 
 
-$(".top").toggle(function() {
+$(".actions a").toggle(function() {
     document.getElementById("my_audio").pause();
 }, function() {
     document.getElementById("my_audio").play();
