@@ -25,6 +25,13 @@ $(document).ready( function(){
     console.log('Shaadi me zaroor aana');
 });
 
+
+$( "#top" ).toggle(function() {
+    document.getElementById("my_audio").pause();
+}, function() {
+    document.getElementById("my_audio").play();
+});
+
 // Set the date we're counting down to
 var countDownDate = new Date("Nov 29, 2021 00:00:00").getTime();
 
