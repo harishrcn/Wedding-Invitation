@@ -21,10 +21,7 @@
  *
  */
 
- window.onload = function() {
-    var context = new AudioContext();
-  }
-  
+
 $(document).on('click', function(){
     document.getElementById("my_audio").play();
     console.log('Shaadi me zaroor aana');
