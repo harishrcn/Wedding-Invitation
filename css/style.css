@@ -726,7 +726,7 @@ a {
 	  display: none;
 	}
 	.wrapper {
-		display: none;
+		display: block;
 	}
 
 	.wrapper section .item {
