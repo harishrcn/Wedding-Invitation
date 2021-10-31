@@ -1,5 +1,5 @@
 
-<h1 align="center"><a href="https://saharshisha.netlify.app/assets/SI.pdf">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: 29th Nov, 2021 <br> <a href="https://saharshisha.netlify.app/">Website</a></h1>
+<h1 align="center"><a href="https://arcsoftech.github.io/Wedding-Invitation//assets/SI.pdf">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: 29th Nov, 2021 <br> <a href="https://arcsoftech.github.io/Wedding-Invitation/">Website</a></h1>
 
 
 
@@ -7,16 +7,16 @@
 
 <details>
   <summary><strong>View Invitation</strong></summary>
-  <a href="https://saharshisha.netlify.app/"><img src="./assets/img/InviteMain.png" /></a>
+  <a href="https://arcsoftech.github.io/Wedding-Invitation//"><img src="./assets/img/InviteMain.png" /></a>
 </details>
 
 With the divine grace of the almighty, inviting you and your family to Saharsh's wedding to be held on **28th and 29th November at [Bhansali Bhavan](https://goo.gl/maps/dYXaRmk8PyXyr2au6),  Jodhpur, Rajasthan.
 
-- [Download](https://saharshisha.netlify.app/assets/SI.pdf) the Invitation card
+- [Download](https://arcsoftech.github.io/Wedding-Invitation//assets/SI.pdf) the Invitation card
 
 - Find [venue](https://goo.gl/maps/dYXaRmk8PyXyr2au6) on Google map
 
-- Visit the [website](https://saharshisha.netlify.app) for more details
+- Visit the [website](https://arcsoftech.github.io/Wedding-Invitation/) for more details
 
 
 ```js
@@ -34,7 +34,7 @@ const weddingVenue = new Location('Bhansali Bhavan, Jodhpur, Rajasthan');
 
     // your presence is requested
     (new Wedding()).acceptInvitation(
-        window.open('https://saharshisha.netlify.app/')
+        window.open('https://arcsoftech.github.io/Wedding-Invitation/')
     );
 })();
 
