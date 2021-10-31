@@ -1,4 +1,5 @@
 
+<p align="center"><a href="https://www.sarthakj.me/WeddingEvite/"><img src="./assets/img/wedding.gif" width="150px" height="150px"/></a></p>
 <h1 align="center"><a href="https://arcsoftech.github.io/Wedding-Invitation//assets/WeddingInvite.pdf">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: 29th Nov, 2021 <br> <a href="https://arcsoftech.github.io/Wedding-Invitation/">Website</a></h1>
 
 
