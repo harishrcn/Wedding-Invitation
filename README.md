@@ -1,6 +1,6 @@
 
 <p align="center"><a href="https://www.sarthakj.me/WeddingEvite/"><img src="./assets/img/wedding.gif" width="150px" height="150px"/></a></p>
-<h1 align="center"><a href="https://arcsoftech.github.io/Wedding-Invitation//assets/WeddingInvite.pdf">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: 29th Nov, 2021 <br> <a href="https://arcsoftech.github.io/Wedding-Invitation/">Website</a></h1>
+<h1 align="center"><a href="https://arcsoftech.github.io/Wedding-Invitation//assets/WeddingInvite.pdf">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: 5th Feb, 2022 <br> <a href="https://arcsoftech.github.io/Wedding-Invitation/">Website</a></h1>
 
 
 
@@ -12,24 +12,24 @@
 </details>
 
 With the divine grace of the almighty,
-         connected through screen watch our lives interwine and our love bridge the gap of thousand miles right before your eyes to be held on **28th and 29th November at [Bhansali Bhavan](https://goo.gl/maps/dYXaRmk8PyXyr2au6),  Jodhpur, Rajasthan.
+         connected through screen watch our lives interwine and our love bridge the gap of thousand miles right before your eyes to be held on **5th and 6th February at [V R Gardens](https://goo.gl/maps/ysGda2qBo2vEm1SS6),  Metpalle, Telangana.
 
 - [Download](https://arcsoftech.github.io/Wedding-Invitation//assets/WeddingInvite.pdf) the Invitation card
 
-- Find [venue](https://goo.gl/maps/dYXaRmk8PyXyr2au6) on Google map
+- Find [venue](https://goo.gl/maps/ysGda2qBo2vEm1SS6) on Google map
 
 - Visit the [website](https://arcsoftech.github.io/Wedding-Invitation/) for more details
 
 
 ```js
 
-const newCouple = 'Minali & Arihant';
+const newCouple = 'Harshini & Harish';
 
 // Feb 14, 2021
-const weddingDate = new Date(2021, 11, 29);
+const weddingDate = new Date(2022, 02, 05);
 
-// Wedding venue: https://g.page/Mishttenresort
-const weddingVenue = new Location('Bhansali Bhavan, Jodhpur, Rajasthan');
+// Wedding venue: https://goo.gl/maps/ysGda2qBo2vEm1SS6
+const weddingVenue = new Location('V R Gardens, Metpalle, Telangana');
 
 (function() {
     newCouple.willTieKnot(weddingDate);
@@ -48,7 +48,7 @@ const weddingVenue = new Location('Bhansali Bhavan, Jodhpur, Rajasthan');
 ### Do not forget to leave a star! :hugs:
 
 <br><sup><i>With warm regards,<br>
-**Arihant Chhajed**<i></sup><br>
+**Harish Nallagonda**<i></sup><br>
 
 ## Credits for the Project 
 
